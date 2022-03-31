@@ -24,7 +24,8 @@ Insulin 	Two hour serum insulin
 BMI 	Body Mass Index
 DiabetesPedigreeFunction 	Diabetes pedigree function
 Age 	Age in years
-Outcome 	Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0```
+Outcome 	Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
+```
 
 # Data Exploration:
 
@@ -80,4 +81,6 @@ Please be descriptive to explain what values of these parameter you have used.
     Heatmap of correlation analysis among the relevant variables
 
     Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different variables for these age brackets using a bubble chart.
-
+    
+    
+Download the data sets from https://github.com/Simplilearn-Edu/Data-Science-Capstone-Projects
